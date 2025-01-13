@@ -5,9 +5,9 @@ module.exports = {
 
     ownerName: process.env.OWNER_NAME || "ACE 10k", // Owner name
 
-    ownerNumber: process.env.OWNER_NUMBER || "2349168764213", // Your WhatsApp number
+    ownerNumber: process.env.OWNER_NUMBER || "2347015035842", // Your WhatsApp number
 
-    sudo: process.env.SUDO ? process.env.SUDO.split(",") : ["2349168764213"," 2349168764213"], // People Who can use the bot even in Private mode
+    sudo: process.env.SUDO ? process.env.SUDO.split(",") : ["2347015035842"," 2347015035842"], // People Who can use the bot even in Private mode
 
     mode: process.env.MODE || "private", // Bot mode: 'public' or 'private'
 

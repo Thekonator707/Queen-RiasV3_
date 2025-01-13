@@ -19,7 +19,7 @@ module.exports = {
 
     exifAuthor: process.env.EXIF_AUTHOR || "ACE 10k", // Author of the sticker pack
 
-    timeZone: process.env.TIME_ZONE || "Africa/Limpopo", // Time zone
+    timeZone: process.env.TIME_ZONE || "Africa/Lagos", // Time zone
 
     presenceStatus: process.env.PRESENCE_STATUS || "recording", // Bot presence status
 
